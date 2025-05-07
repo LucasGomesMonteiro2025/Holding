@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lucas Gomes Monteiro - Planejamento Patrimonial</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+      color: #333;
+    }
+    header {
+      background: #003366;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    main {
+      padding: 30px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    .cta {
+      background: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      border-radius: 8px;
+    }
+    .cta p {
+      margin: 10px 0;
+    }
+    .cta a {
+      background: white;
+      color: #004080;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #ddd;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lucas Gomes Monteiro</h1>
+    <p>Advogado especialista em planejamento patrimonial e sucessório com uso de Holdings Familiares</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Por que usar uma Holding Familiar?</h2>
+      <p>
+        Evite conflitos futuros, proteja seu patrimônio e reduza custos com inventário e impostos. 
+        A Holding Familiar é uma estrutura legal que garante organização, segurança e sucessão eficiente dos bens da sua família.
+      </p>
+    </section>
+
+    <section>
+      <h2>Como posso te ajudar</h2>
+      <p>
+        Com experiência prática na estruturação de holdings patrimoniais, ofereço um atendimento direto, estratégico e 
+        pensado para as necessidades específicas de cada família. Você terá acompanhamento completo: da análise à implementação.
+      </p>
+    </section>
+
+    <div class="cta">
+      <h3>Agende uma conversa gratuita</h3>
+      <p>Fale comigo pelo WhatsApp e entenda como proteger seu patrimônio.</p>
+      <a href="https://wa.me/5533999672681" target="_blank">📲 Falar com Lucas</a>
+    </div>
+  </main>
+
+  <footer>
+    © 2025 Lucas Gomes Monteiro - (33) 99967-2681
+  </footer>
+</body>
+</html>
